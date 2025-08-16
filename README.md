@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 ![Aashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashishniranjanb&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=aashishniranjanb&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashishniranjanb&layout=compact&theme=radical)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Electronics+Engineer;Verilog+%7C+FPGA+%7C+IoT;AI+%7C+Signal+Processing;Hackathon+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Electronics+Engineer;IoT;AI;Hackathon+Builder)](https://git.io/typing-svg)
 
