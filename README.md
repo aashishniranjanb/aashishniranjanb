@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 
+![Visitor Count](https://komarev.com/ghpvc/?username=aashishniranjanb&color=blue)
