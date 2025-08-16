@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://streak-stats.demolab.com?user=aashishniranjanb&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashishniranjanb&layout=compact&theme=radical)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Electronics+Engineer;IoT;AI;Hackathon+Builder)](https://git.io/typing-svg)
-![Verilog](https://img.shields.io/badge/Verilog-ED1C24?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![LoRaWAN](https://img.shields.io/badge/LoRaWAN-00BFFF?style=for-the-badge&logo=internetofthings&logoColor=white)
+
 
