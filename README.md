@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=aashishniranjanb&color=blue)
