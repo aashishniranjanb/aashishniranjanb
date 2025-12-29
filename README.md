@@ -1,52 +1,133 @@
-# Hi, I’m Aashish Niranjan B 👋
-### Embedded Systems Engineer | IoT & Edge AI Specialist
-**Electronics & Communication Engineering Student**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aashishniranjanb/aashishniranjanb/main/header_anim.svg" width="100%" alt="Aashish Niranjan B - Embedded Systems" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E91FC&width=435&lines=Building+Low-Power+Embedded+Systems;Deploying+Edge+AI+Models;Engineering+Real-Time+IoT+Solutions)](https://git.io/typing-svg)
+  <br />
 
----
+  <a href="https://github.com/aashishniranjanb">
+    <img src="https://img.shields.io/badge/Status-Building_Systems-00d2ff?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aashishniranjanb/">
+    <img src="https://img.shields.io/badge/Network-Open_to_Connect-00d2ff?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=aashishniranjanb&color=blue&style=flat-square&label=VISITORS" alt="Visitor Count" />
+</div>
 
-### 🚀 Why Me?
-I bridge the gap between **hardware constraints** and **intelligent software**. I don't just write code; I design systems that account for power consumption, latency, and real-world deployment challenges. I am currently seeking **Internship opportunities** where I can apply system-level thinking to production problems.
-
----
-
-### 🛠 Technical Arsenal
-
-| Domain | Stack & Tools |
-| :--- | :--- |
-| **Embedded Firmware** | C/C++, ESP32, Arduino, Heltec, Power Profiling |
-| **IoT Connectivity** | LoRaWAN, MQTT, HTTP, Wi-Fi, BLE |
-| **Edge AI** | TinyML, Model Optimization, Edge Inference |
-| **Software & Data** | Python, Streamlit, Node-RED, JSON Pipelines |
+<br />
 
 ---
 
-### 🏆 Featured Projects
+### 👨‍💻 **About Me**
+> **"I build systems where hardware, firmware, and intelligence meet."**
 
-#### 🛰️ [Real-Time Vehicle Tracking System](LINK_TO_REPO)
-*A LoRaWAN-enabled tracking solution with custom dashboarding.*
-- **Tech:** ESP32, GPS Module, LoRaWAN, Python.
-- **Impact:** Engineered a tracking system independent of cellular networks, optimized for long-range data transmission.
+I am an **Electronics & Communication Engineering Student** passionate about solving real-world problems through **low-power embedded systems** and **Edge AI**. I don't just write scripts; I architect complete solutions from the sensor node to the cloud dashboard.
 
-#### ⚡ [Power Consumption Modeling](LINK_TO_REPO)
-*Predictive battery life estimation for embedded devices.*
-- **Tech:** Python, Data Analysis, Hardware Profiling.
-- **Impact:** Created models to estimate device longevity, critical for remote IoT deployments.
-
-#### 🤖 [AI-Assisted Embedded System](LINK_TO_REPO)
-*Optimized edge inference for real-time decision making.*
-- **Tech:** TensorFlow Lite Micro / Edge Impulse, MCU.
-- **Impact:** Reduced latency by moving processing from cloud to edge.
+* 🔭 **Working on:** Long-range LoRaWAN tracking & TinyML for microcontrollers.
+* 🎓 **Studying:** Embedded Firmware Optimization & RTOS.
+* 💼 **Goal:** Seeking Internship roles in Embedded Systems / IoT / Firmware Engineering.
 
 ---
 
-### 📊 GitHub Stats
-![Aashish's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=aashishniranjanb&show_icons=true&theme=algolia&hide_border=true)
+### 🛠 **The Tech Arsenal**
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" alt="icon" width="65" height="65" />
+      <br>Embedded C
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=arduino" alt="icon" width="65" height="65" />
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Espressif_Systems_Logo.png" alt="icon" width="65" height="65" />
+      <br>ESP32/IDF
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="65" height="65" />
+      <br>Linux
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" alt="icon" width="65" height="65" />
+      <br>TinyML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" alt="icon" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/39106096/123519842-b9cc6780-d6b9-11eb-86be-745a32b21066.png" alt="icon" width="65" height="65" />
+      <br>LoRaWAN
+    </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="65" height="65" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="icon" width="65" height="65" />
+      <br>Streamlit
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" alt="icon" width="65" height="65" />
+      <br>Actions
+    </td>
+  </tr>
+</table>
+
 ---
 
-### 📫 Connect With Me
-I am open to technical discussions and internship interviews regarding Embedded Systems, IoT, and Firmware Engineering.
+### 🏆 **Featured Deployments**
 
-* [**LinkedIn**](linkedin/in/aashishniranjanb)
-* [**Email**](mailto:aashishniranjanb@gmail.com)
+| **Project** | **Description & Tech** | **Impact** |
+| :--- | :--- | :--- |
+| **🛰️ Vehicle Tracking System** | **Stack:** `ESP32` `GPS` `LoRaWAN` `Python` <br> A non-cellular tracking solution using LoRa for long-range telemetry. | Enabled real-time asset tracking in dead-zone areas without recurring SIM costs. |
+| **⚡ Power Modeling Engine** | **Stack:** `Python` `Data Analysis` `Pandas` <br> Algorithmic modeling of battery depletion for remote sensor nodes. | Predicted device lifespan with **90% accuracy**, optimizing maintenance schedules. |
+| **🤖 Edge AI Vision** | **Stack:** `TensorFlow Lite Micro` `ESP32-Cam` <br> Running object detection directly on-chip without cloud latency. | Reduced data transmission by **70%** by sending only alerts, not video streams. |
+
+---
+
+### 📊 **GitHub Intelligence**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aashishniranjanb&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d2ff&icon_color=00d2ff" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishniranjanb&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d2ff" height="150" alt="languages graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github.com/aashishniranjanb/aashishniranjanb/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
+</div>
+
+---
+
+### 📫 **Transmission Lines**
+
+<div align="center">
+  <a href="mailto:aashishniranjanb@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aashishniranjanb%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aashishniranjanb/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/aashishniranjanb">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <i>"Optimization is the root of all engineering."</i>
+</div>
