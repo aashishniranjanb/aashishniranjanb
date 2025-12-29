@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aashishniranjanb/aashishniranjanb/main/header_anim.svg" width="100%" alt="Aashish Niranjan B - Embedded Systems" />
+<img src="./header_anim.svg" width="100%" alt="Aashish Niranjan B - Embedded Systems" />
 
   <br />
 
