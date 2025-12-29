@@ -1,27 +1,52 @@
-## Hi there 👋
-<!--
-**aashishniranjanb/aashishniranjanb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Aashish Niranjan B 👋
+### Embedded Systems Engineer | IoT & Edge AI Specialist
+**Electronics & Communication Engineering Student**
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E91FC&width=435&lines=Building+Low-Power+Embedded+Systems;Deploying+Edge+AI+Models;Engineering+Real-Time+IoT+Solutions)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Aashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashishniranjanb&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=aashishniranjanb&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashishniranjanb&layout=compact&theme=radical)  
+---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Electronics+Engineer;IoT+Innovator;AI+Learner;Hackathon+Builder)](https://git.io/typing-svg)  
+### 🚀 Why Me?
+I bridge the gap between **hardware constraints** and **intelligent software**. I don't just write code; I design systems that account for power consumption, latency, and real-world deployment challenges. I am currently seeking **Internship opportunities** where I can apply system-level thinking to production problems.
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+---
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)  
+### 🛠 Technical Arsenal
 
-![Visitor Count](https://komarev.com/ghpvc/?username=aashishniranjanb&color=blue)
+| Domain | Stack & Tools |
+| :--- | :--- |
+| **Embedded Firmware** | C/C++, ESP32, Arduino, Heltec, Power Profiling |
+| **IoT Connectivity** | LoRaWAN, MQTT, HTTP, Wi-Fi, BLE |
+| **Edge AI** | TinyML, Model Optimization, Edge Inference |
+| **Software & Data** | Python, Streamlit, Node-RED, JSON Pipelines |
+
+---
+
+### 🏆 Featured Projects
+
+#### 🛰️ [Real-Time Vehicle Tracking System](LINK_TO_REPO)
+*A LoRaWAN-enabled tracking solution with custom dashboarding.*
+- **Tech:** ESP32, GPS Module, LoRaWAN, Python.
+- **Impact:** Engineered a tracking system independent of cellular networks, optimized for long-range data transmission.
+
+#### ⚡ [Power Consumption Modeling](LINK_TO_REPO)
+*Predictive battery life estimation for embedded devices.*
+- **Tech:** Python, Data Analysis, Hardware Profiling.
+- **Impact:** Created models to estimate device longevity, critical for remote IoT deployments.
+
+#### 🤖 [AI-Assisted Embedded System](LINK_TO_REPO)
+*Optimized edge inference for real-time decision making.*
+- **Tech:** TensorFlow Lite Micro / Edge Impulse, MCU.
+- **Impact:** Reduced latency by moving processing from cloud to edge.
+
+---
+
+### 📊 GitHub Stats
+![Aashish's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=aashishniranjanb&show_icons=true&theme=algolia&hide_border=true)
+---
+
+### 📫 Connect With Me
+I am open to technical discussions and internship interviews regarding Embedded Systems, IoT, and Firmware Engineering.
+
+* [**LinkedIn**](linkedin/in/aashishniranjanb)
+* [**Email**](mailto:aashishniranjanb@gmail.com)
