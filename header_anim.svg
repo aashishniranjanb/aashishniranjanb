@@ -11,12 +11,12 @@
 					50%, 100% { opacity: 1; box-shadow: 0 0 10px #0f0; }
 				}
 				@keyframes glowText {
-					0%, 100% { text-shadow: 0 0 5px #00d2ff, 0 0 10px #00d2ff; }
+					0%, 100% { text-shadow: 0 0 5px #00d2ff, 0 0 10px #00d2ff, 0 0 20px #00d2ff; }
 					50% { text-shadow: 0 0 10px #00d2ff, 0 0 20px #00d2ff, 0 0 30px #00d2ff; }
 				}
 				.container {
 					font-family: 'Segoe UI', Ubuntu, sans-serif;
-					background-color: #0d1117;
+					background-color: #0a0a0a;
 					background-image: radial-gradient(#1a1a1a 1px, transparent 1px);
 					background-size: 20px 20px;
 					width: 100%;
@@ -26,7 +26,16 @@
 					justify-content: center;
 					align-items: center;
 					color: white;
-					border-radius: 10px;
+					position: relative;
+					overflow: hidden;
+					border-radius: 12px;
+					border: 1px solid #333;
+				}
+				.circuit-lines {
+					position: absolute;
+					top: 0; left: 0; width: 100%; height: 100%;
+					z-index: 1;
+					opacity: 0.6;
 				}
 				.trace {
 					fill: none;
@@ -34,40 +43,43 @@
 					stroke-width: 2;
 					stroke-dasharray: 20 10;
 					animation: flow 20s linear infinite;
-					opacity: 0.5;
 				}
+				.trace-slow { animation-duration: 30s; stroke: #0077ff;}
+				.content { z-index: 2; text-align: center; }
 				h1 {
-					font-size: 45px; margin: 0; color: #fff;
+					font-size: 42px; margin: 0; color: #fff;
 					text-transform: uppercase; letter-spacing: 2px;
 					animation: glowText 3s ease-in-out infinite alternate;
 				}
 				h3 {
-					font-size: 18px; margin: 10px 0; color: #8b949e;
-					display: flex; gap: 15px;
+					font-size: 18px; margin: 10px 0; color: #aaa;
+					display: flex; align-items: center; justify-content: center; gap: 15px;
 				}
 				.led {
-					width: 8px; height: 8px; background-color: #238636;
+					width: 8px; height: 8px; background-color: #0f0;
 					border-radius: 50%; display: inline-block;
-					box-shadow: 0 0 5px #238636;
-					animation: blink 2s infinite;
+					animation: blink 1s infinite;
 				}
+				.tagline { font-size: 14px; color: #00d2ff; font-family: monospace; margin-top: 15px;}
 			</style>
 			<div class="container">
-				<svg style="position:absolute; width:100%; height:100%;">
-					<path class="trace" d="M0,50 Q200,50 400,125 T800,200" />
-					<path class="trace" style="animation-duration: 15s; stroke: #238636;" d="M0,200 Q200,200 400,125 T800,50" />
+				<svg class="circuit-lines" viewBox="0 0 800 250">
+					<path class="trace" d="M-50,125 C150,125 200,50 400,50 S650,125 850,125" />
+					<path class="trace trace-slow" d="M-50,200 C150,200 300,250 400,250 S650,50 850,50" />
+					<path class="trace" d="M850,10 C600,10 500,200 400,200 S200,10 -50,10" />
+					<circle cx="400" cy="125" r="40" stroke="#00d2ff" stroke-width="1" fill="none" opacity="0.5"/>
 				</svg>
-				<div style="z-index:2; text-align:center;">
-					<h1>Aashish Niranjan</h1>
+				
+				<div class="content">
+					<h1>Aashish Niranjan B</h1>
 					<h3>
-						<span><span class="led"></span> Embedded Systems</span>
-						<span><span class="led" style="animation-delay:0.5s"></span> IoT</span>
-						<span><span class="led" style="animation-delay:1s"></span> Edge AI</span>
+						<span><span class="led" style="animation-delay: 0s;"></span> Embedded Systems</span>
+						<span><span class="led" style="animation-delay: 0.3s;"></span> IoT Architectures</span>
+						<span><span class="led" style="animation-delay: 0.6s;"></span> Edge AI</span>
 					</h3>
+					<p class="tagline">Found at the intersection of Hardware, Data, and Intelligence.</p>
 				</div>
 			</div>
 		</div>
-	</foreignObject>
-</svg>
 	</foreignObject>
 </svg>
