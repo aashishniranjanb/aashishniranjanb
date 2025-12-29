@@ -48,7 +48,7 @@ I am an **Electronics & Communication Engineering Student** passionate about sol
       <br>Arduino
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Espressif_Systems_Logo.png" alt="icon" width="65" height="65" />
+      <img src="https://cdn.simpleicons.org/espressif/E7352C" alt="icon" width="65" height="65" />
       <br>ESP32/IDF
     </td>
     <td align="center" width="96">
@@ -66,7 +66,7 @@ I am an **Electronics & Communication Engineering Student** passionate about sol
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/39106096/123519842-b9cc6780-d6b9-11eb-86be-745a32b21066.png" alt="icon" width="65" height="65" />
+      <img src="https://cdn.simpleicons.org/lora/0099CC" alt="icon" width="65" height="65" />
       <br>LoRaWAN
     </td>
      <td align="center" width="96">
@@ -99,9 +99,9 @@ I am an **Electronics & Communication Engineering Student** passionate about sol
 ### 📊 **GitHub Intelligence**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashishniranjanb&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d2ff&icon_color=00d2ff" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aashishniranjanb&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishniranjanb&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d2ff" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishniranjanb&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <br />
