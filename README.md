@@ -131,3 +131,7 @@ I am an **Electronics & Communication Engineering Student** passionate about sol
 <div align="center">
   <i>"Optimization is the root of all engineering."</i>
 </div>
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions" />
+</div>
