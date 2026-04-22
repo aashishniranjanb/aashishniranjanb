@@ -99,15 +99,25 @@ I am an **Electronics & Communication Engineering Student** passionate about sol
 ### 📊 **GitHub Intelligence**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashishniranjanb&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishniranjanb&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aashishniranjanb&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishniranjanb&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github.com/aashishniranjanb/aashishniranjanb/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aashishniranjanb/aashishniranjanb/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aashishniranjanb/aashishniranjanb/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aashishniranjanb/aashishniranjanb/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aashishniranjanb/aashishniranjanb/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions" />
 </div>
 
 ---
