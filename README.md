@@ -65,10 +65,10 @@ I am an **Electronics & Communication Engineering Student** passionate about sol
       <img src="https://skillicons.dev/icons?i=git" alt="icon" width="65" height="65" />
       <br>Git
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/lora/0099CC" alt="icon" width="65" height="65" />
-      <br>LoRaWAN
-    </td>
+  <td align="center" width="96">
+      <img src="./lorawan-icon.svg" alt="LoRaWAN icon" width="65" height="65" />
+      <br>LoRaWAN
+    </td>
      <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="65" height="65" />
       <br>VS Code
