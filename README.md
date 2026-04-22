@@ -133,5 +133,5 @@ I am an **Electronics & Communication Engineering Student** passionate about sol
 </div>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions" />
+  <img src="https://raw.githubusercontent.com/aashishniranjanb/aashishniranjanb/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
 </div>
