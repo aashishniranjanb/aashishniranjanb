@@ -142,6 +142,4 @@ I am an **Electronics & Communication Engineering Student** passionate about sol
   <i>"Optimization is the root of all engineering."</i>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aashishniranjanb/aashishniranjanb/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
-</div>
+
