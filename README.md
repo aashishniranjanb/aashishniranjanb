@@ -32,53 +32,53 @@ I am an **Electronics & Communication Engineering Student** passionate about sol
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=py" alt="Python" width="60" height="60" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="60" height="60" />
       <br>C++
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=c" alt="Embedded C" width="60" height="60" />
       <br>Embedded C
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=arduino" alt="icon" width="65" height="65" />
-      <br>Arduino
+      <img src="https://cdn.simpleicons.org/verilog/00d2ff" alt="Verilog & SystemVerilog" width="60" height="60" />
+      <br>Verilog / SV
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/espressif/E7352C" alt="icon" width="65" height="65" />
-      <br>ESP32/IDF
+      <img src="https://cdn.simpleicons.org/espressif/E7352C" alt="ESP32" width="60" height="60" />
+      <br>ESP32 / IDF
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="60" height="60" />
       <br>Linux
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=tensorflow" alt="TinyML" width="60" height="60" />
       <br>TinyML
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" alt="icon" width="65" height="65" />
+      <img src="./lorawan-icon.svg" alt="LoRaWAN" width="60" height="60" />
+      <br>LoRaWAN
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="60" height="60" />
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60" />
       <br>Git
     </td>
-  <td align="center" width="96">
-      <img src="./lorawan-icon.svg" alt="LoRaWAN icon" width="65" height="65" />
-      <br>LoRaWAN
-    </td>
-     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="65" height="65" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="60" height="60" />
       <br>VS Code
     </td>
     <td align="center" width="96">
-      <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="icon" width="65" height="65" />
-      <br>Streamlit
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=githubactions" alt="Actions" width="60" height="60" />
       <br>Actions
     </td>
   </tr>
