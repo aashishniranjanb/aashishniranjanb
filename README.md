@@ -90,9 +90,10 @@ I am an **Electronics & Communication Engineering Student** passionate about sol
 
 | **Project** | **Description & Tech** | **Impact** |
 | :--- | :--- | :--- |
-| **🛰️ Vehicle Tracking System** | **Stack:** `ESP32` `GPS` `LoRaWAN` `Python` <br> A non-cellular tracking solution using LoRa for long-range telemetry. | Enabled real-time asset tracking in dead-zone areas without recurring SIM costs. |
-| **⚡ Power Modeling Engine** | **Stack:** `Python` `Data Analysis` `Pandas` <br> Algorithmic modeling of battery depletion for remote sensor nodes. | Predicted device lifespan with **90% accuracy**, optimizing maintenance schedules. |
-| **🤖 Edge AI Vision** | **Stack:** `TensorFlow Lite Micro` `ESP32-Cam` <br> Running object detection directly on-chip without cloud latency. | Reduced data transmission by **70%** by sending only alerts, not video streams. |
+| **🌱 AWAKE Event-Driven ASIC** | **Stack:** `Verilog` `OpenLane` `OpenROAD` `Sky130`[cite: 4] <br> Event-driven sensor ASIC with adaptive ADC, event-detection logic, and hierarchical power FSM[cite: 4]. | Achieved timing closure at **116.15 MHz** on SkyWater 130nm with zero setup/hold violations[cite: 4]. |
+| **🧠 HSA-16 AI Accelerator** | **Stack:** `Verilog HDL` `Cadence Genus` `Xcelium` `SAIF`[cite: 3, 4] <br> 16×16 INT8 sparsity-aware systolic-array accelerator with lookahead sparsity and dynamic clock gating[cite: 3, 4]. | Cuts redundant MAC activity on sparse workloads and models real switching power via SAIF[cite: 4]. |
+| **🌾 AgriAgents** | **Stack:** `LangGraph` `Flask` `Python` `ESP32 IoT`[cite: 5] <br> 4-agent climate-aware irrigation system combining telemetry, weather context, and tool-calling agents[cite: 5]. | Automates multi-step agricultural decision workflows with transparent agent reasoning and live monitoring[cite: 5]. |
+| **🩺 AI-Assisted CABG Decision Support** | **Stack:** `Next.js` `FastAPI` `PostgreSQL` `OpenCV` `OCR`[cite: 5] <br> Full-stack clinical workflow combining computer vision/OCR extraction, REST APIs, and structured reporting[cite: 5]. | Streamlines medical record ingestion, retrieval, and automated PDF clinical report generation[cite: 5]. |
 
 ---
 
