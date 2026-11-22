@@ -43,8 +43,8 @@ I am an **Electronics & Communication Engineering Student** passionate about sol
       <img src="https://skillicons.dev/icons?i=c" alt="Embedded C" width="60" height="60" />
       <br>Embedded C
     </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/RTL-Verilog%20%2F%20SV-00d2ff?style=for-the-badge" alt="Verilog & SystemVerilog" />
+   <td align="center" width="96">
+      <img src="./verilog-sv-icon.png" alt="Verilog & SystemVerilog" width="60" height="60" />
       <br>Verilog / SV
     </td>
     <td align="center" width="96">
