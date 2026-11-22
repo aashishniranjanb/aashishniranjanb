@@ -1,17 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f172a" />
-      <stop offset="100%" stop-color="#1e293b" />
+    <linearGradient id="monitorBody" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3a8a" />
+      <stop offset="100%" stop-color="#0f172a" />
     </linearGradient>
-    <linearGradient id="pulse" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0284c7" />
+    <linearGradient id="screenBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#082f49" />
+      <stop offset="100%" stop-color="#090d16" />
+    </linearGradient>
+    <linearGradient id="ecgLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
       <stop offset="50%" stop-color="#00d2ff" />
-      <stop offset="100%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#67e8f9" />
     </linearGradient>
   </defs>
-  <rect width="64" height="64" rx="14" fill="url(#bg)" stroke="#00d2ff" stroke-width="2" stroke-opacity="0.4" />
-  <rect x="12" y="14" width="40" height="36" rx="6" fill="#090d16" stroke="#1e3a8a" stroke-width="2" />
-  <polyline points="15,33 23,33 27,22 32,44 37,26 40,33 49,33" fill="none" stroke="url(#pulse)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" />
-  <circle cx="49" cy="33" r="2.5" fill="#00d2ff" />
+
+  
+  <rect x="27" y="46" width="10" height="7" rx="1.5" fill="#0284c7" />
+  <rect x="19" y="52" width="26" height="5" rx="2.5" fill="#38bdf8" />
+
+  
+  <rect x="7" y="8" width="50" height="39" rx="7" fill="url(#monitorBody)" stroke="#38bdf8" stroke-width="2.5" />
+
+  
+  <rect x="11" y="12" width="42" height="31" rx="4" fill="url(#screenBg)" />
+
+  
+  <line x1="13" y1="28" x2="51" y2="28" stroke="#1d4ed8" stroke-width="1.5" stroke-dasharray="3 2" />
+
+  
+  <polyline points="13,28 21,28 25,18 30,38 35,20 39,28 51,28" fill="none" stroke="url(#ecgLine)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" />
 </svg>
