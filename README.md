@@ -90,8 +90,8 @@
 ### <img src="./icons/telemetry.svg" width="26" height="26" align="absmiddle" alt="" /> **GitHub Intelligence**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashishniranjanb&show_icons=true&bg_color=05070c&title_color=0f64d7&icon_color=0f64d7&text_color=e6edf3&ring_color=0f64d7&hide_border=true" height="155" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishniranjanb&layout=compact&bg_color=05070c&title_color=0f64d7&icon_color=0f64d7&text_color=e6edf3&hide_border=true" height="155" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aashishniranjanb&show_icons=true&bg_color=05070c&title_color=0f64d7&icon_color=0f64d7&text_color=e6edf3&ring_color=0f64d7&border_color=0f64d7&hide_border=false" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishniranjanb&layout=compact&bg_color=05070c&title_color=0f64d7&icon_color=0f64d7&text_color=e6edf3&border_color=0f64d7&hide_border=false" width="48%" alt="Top Languages" />
 </div>
 
 <br />
@@ -100,7 +100,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aashishniranjanb/aashishniranjanb/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aashishniranjanb/aashishniranjanb/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/aashishniranjanb/aashishniranjanb/output/github-contribution-grid-snake.svg" width="100%">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/aashishniranjanb/aashishniranjanb/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 
@@ -109,7 +109,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/aashishniranjanb/aashishniranjanb/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions" />
 </div>
-
 ---
 
 ### 📫 **Transmission Lines**
