@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 32" width="800" height="32">
+  <defs>
+    
+    <linearGradient id="zigRailFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#05070c" stop-opacity="0" />
+      <stop offset="12%" stop-color="#0f64d7" stop-opacity="0.45" />
+      <stop offset="50%" stop-color="#0f64d7" stop-opacity="0.9" />
+      <stop offset="88%" stop-color="#0f64d7" stop-opacity="0.45" />
+      <stop offset="100%" stop-color="#05070c" stop-opacity="0" />
+    </linearGradient>
+
+    
+    <linearGradient id="currentSurgePrimary" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f64d7" stop-opacity="0.1" />
+      <stop offset="40%" stop-color="#0f64d7" stop-opacity="0.95" />
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="1" />
+      <stop offset="60%" stop-color="#0f64d7" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#0f64d7" stop-opacity="0.1" />
+    </linearGradient>
+
+    
+    <linearGradient id="currentSurgeSecondary" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#05070c" stop-opacity="0" />
+      <stop offset="50%" stop-color="#0f64d7" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#05070c" stop-opacity="0" />
+    </linearGradient>
+
+    
+    <filter id="zigGlow" x="-25%" y="-100%" width="150%" height="300%">
+      <feGaussianBlur stdDeviation="2.4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    
+    <path id="zigPath" d="M 24 16 L 128 16 L 140 7 L 154 25 L 168 7 L 182 25 L 196 7 L 208 16 L 356 16 L 368 6 L 382 26 L 396 6 L 410 26 L 424 6 L 436 16 L 584 16 L 596 7 L 610 25 L 624 7 L 638 25 L 652 7 L 664 16 L 776 16" />
+  </defs>
+
+  
+  <use href="#zigPath" fill="none" stroke="url(#zigRailFade)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" />
+
+  
+  <use href="#zigPath" fill="none" stroke="url(#currentSurgeSecondary)" stroke-width="1.8" stroke-dasharray="95 750" stroke-dashoffset="845" stroke-linejoin="round" stroke-linecap="round" opacity="0.75">
+    <animate attributeName="stroke-dashoffset" from="845" to="-845" dur="3.4s" begin="1.1s" calcMode="spline" keySplines="0.4 0 0.2 1" repeatCount="indefinite" />
+  </use>
+
+  
+  <use href="#zigPath" fill="none" stroke="url(#currentSurgePrimary)" stroke-width="2.5" stroke-dasharray="150 700" stroke-dashoffset="850" stroke-linejoin="round" stroke-linecap="round" filter="url(#zigGlow)">
+    <animate attributeName="stroke-dashoffset" from="850" to="-850" dur="3.4s" calcMode="spline" keySplines="0.4 0 0.2 1" repeatCount="indefinite" />
+  </use>
+
+  
+  <circle r="3" fill="#38bdf8" filter="url(#zigGlow)">
+    <animateMotion dur="3.4s" calcMode="spline" keySplines="0.4 0 0.2 1" repeatCount="indefinite" rotate="auto">
+      <mpath href="#zigPath" />
+    </animateMotion>
+  </circle>
+
+  
+  <circle cx="248" cy="16" r="2.3" fill="#05070c" stroke="#0f64d7" stroke-width="1.3" />
+  <circle cx="542" cy="16" r="2.3" fill="#05070c" stroke="#0f64d7" stroke-width="1.3" />
+
+  
+  <g transform="translate(400, 16)">
+    <circle cx="0" cy="0" r="9.5" fill="none" stroke="#0f64d7" stroke-width="1" opacity="0.45">
+      <animate attributeName="r" values="7.5;11;7.5" dur="2.4s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.65;0.15;0.65" dur="2.4s" repeatCount="indefinite" />
+    </circle>
+    <polygon points="0,-6.5 6.5,0 0,6.5 -6.5,0" fill="#05070c" stroke="#0f64d7" stroke-width="1.7" filter="url(#zigGlow)" />
+    <circle cx="0" cy="0" r="2.1" fill="#38bdf8">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="1.8s" repeatCount="indefinite" />
+    </circle>
+  </g>
+</svg>
