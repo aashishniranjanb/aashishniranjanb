@@ -35,8 +35,18 @@ Final-year **ECE** builder at **SRMIST** (Class of 2027) taking ideas from **RTL
 <summary><b>Research & Honors</b></summary>
 <br>
 
-- **Research Publications:** Work spanning cross-layer FeFET degradation-aware fault modeling (IEEE ITC India 2026 Academia Research Track)[cite: 3, 4, 6], test-aware slack monitoring for reliable FIR filters (ICOSAAS 2026 — IEEE Xplore)[cite: 3, 4], slack-aware self-optimizing edge accelerators (ICACAS 2026)[cite: 4], and embedded ML / edge-AI frameworks (ICAME 2026 & ICECSM 2026)[cite: 4].
-- **Competitions & Honors:** Top 13 Team in India at SEMICON 2026, 2nd Place in the IEEE ITC India 2026 Hackathon (non-volatile memory testing framework)[cite: 3, 4], Top-5 selection in the IEEE ITC India 2026 Academia Research Track[cite: 4], 2nd Place in the SAE Tier-1 Mobile App Development Competition[cite: 4, 6], and awards at the Loyola-ICAM National Symposium[cite: 4, 6].
+**Publications**
+- **IEEE ITC India 2026 (Academia Research Track):** Cross-layer FeFET degradation-aware fault modeling for non-volatile memory[cite: 3, 4, 6].
+- **ICOSAAS 2026 (IEEE Xplore):** Test-aware slack monitoring for reliable FIR filters[cite: 3, 4].
+- **ICACAS 2026:** Predictive slack-aware self-optimizing accelerator for edge computing[cite: 4].
+- **ICAME 2026 & ICECSM 2026:** Embedded machine learning and adaptive edge-AI frameworks[cite: 4].
+
+**Competitions & Honors**
+- **SEMICON 2026:** Top 13 Team in India.
+- **IEEE ITC India 2026 Hackathon:** 2nd Place (cross-layer non-volatile memory testing framework)[cite: 3, 4, 6].
+- **IEEE ITC India 2026 (Academia Research Track):** Top-5 selection[cite: 4].
+- **SAE Tier-1 Competition:** 2nd Place in Mobile App Development[cite: 4, 6].
+- **Loyola-ICAM National Symposium:** 2nd Place (AI Accelerators) and 3rd Place (Energy Saving Frameworks)[cite: 4].
 
 </details>
 
