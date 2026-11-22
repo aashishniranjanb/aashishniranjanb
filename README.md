@@ -16,16 +16,6 @@
 
 ---
 
-### <img src="./icons/deployments.svg" width="26" height="26" align="absmiddle" alt="" /> **Featured Deployments**
-
-| Project | Description & Tech | Impact |
-| :--- | :--- | :--- |
-| <img src="./icons/awake-asic.svg" width="20" height="20" align="absmiddle" alt="" /> **AWAKE Event-Driven ASIC** | **Stack:** `Verilog` `OpenLane` `OpenROAD` `Sky130` <br> Event-driven sensor ASIC with adaptive ADC, event-detection logic, and hierarchical power FSM. | Achieved timing closure at **116.15 MHz** on SkyWater 130nm with zero setup/hold violations. |
-| <img src="./icons/hsa-accelerator.svg" width="20" height="20" align="absmiddle" alt="" /> **HSA-16 AI Accelerator** | **Stack:** `Verilog HDL` `Cadence Genus` `Xcelium` `SAIF` <br> 16×16 INT8 sparsity-aware systolic-array accelerator with lookahead sparsity and dynamic clock gating. | Cuts redundant MAC activity on sparse workloads and models real switching power via SAIF. |
-| <img src="./icons/agriagents.svg" width="20" height="20" align="absmiddle" alt="" /> **AgriAgents** | **Stack:** `LangGraph` `Flask` `Python` `ESP32 IoT` <br> 4-agent climate-aware irrigation system combining telemetry, weather context, and tool-calling agents. | Automates multi-step agricultural decision workflows with transparent agent reasoning and live monitoring. |
-| <img src="./icons/cabg-clinical.svg" width="20" height="20" align="absmiddle" alt="" /> **AI-Assisted CABG Decision Support** | **Stack:** `Next.js` `FastAPI` `PostgreSQL` `OpenCV` `OCR` <br> Full-stack clinical workflow combining computer vision/OCR extraction, REST APIs, and structured reporting. | Streamlines medical record ingestion, retrieval, and automated PDF clinical report generation. |
----
-
 ### 🛠 **The Tech Arsenal**
 
 <table align="center">
@@ -85,14 +75,16 @@
 
 ---
 
-### <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 24 24' fill='none' stroke='%2300d2ff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolygon points='12 2 2 7 12 12 22 7 12 2'%3E%3C/polygon%3E%3Cpolyline points='2 17 12 22 22 17'%3E%3C/polyline%3E%3Cpolyline points='2 12 12 17 22 12'%3E%3C/polyline%3E%3C/svg%3E" width="18" height="18" valign="middle" alt="" /> Featured Deployments
+
+### <img src="./icons/deployments.svg" width="26" height="26" align="absmiddle" alt="" /> **Featured Deployments**
 
 | Project | Description & Tech | Impact |
 | :--- | :--- | :--- |
-| <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%2300d2ff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect x='4' y='4' width='16' height='16' rx='2'%3E%3C/rect%3E%3Crect x='9' y='9' width='6' height='6'%3E%3C/rect%3E%3Cline x1='9' y1='1' x2='9' y2='4'%3E%3C/line%3E%3Cline x1='15' y1='1' x2='15' y2='4'%3E%3C/line%3E%3Cline x1='9' y1='20' x2='9' y2='23'%3E%3C/line%3E%3Cline x1='15' y1='20' x2='15' y2='23'%3E%3C/line%3E%3Cline x1='20' y1='9' x2='23' y2='9'%3E%3C/line%3E%3Cline x1='20' y1='14' x2='23' y2='14'%3E%3C/line%3E%3Cline x1='1' y1='9' x2='4' y2='9'%3E%3C/line%3E%3Cline x1='1' y1='14' x2='4' y2='14'%3E%3C/line%3E%3C/svg%3E" width="15" height="15" valign="middle" alt="" /> **AWAKE Event-Driven ASIC** | **Stack:** `Verilog` `OpenLane` `OpenROAD` `Sky130`[cite: 4]<br> Event-driven sensor ASIC with adaptive ADC, event-detection logic, and hierarchical power FSM[cite: 4]. | Achieved timing closure at **116.15 MHz** on SkyWater 130nm with zero setup/hold violations[cite: 4]. |
-| <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%2300d2ff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Crect x='3' y='3' width='7' height='7'%3E%3C/rect%3E%3Crect x='14' y='3' width='7' height='7'%3E%3C/rect%3E%3Crect x='14' y='14' width='7' height='7'%3E%3C/rect%3E%3Crect x='3' y='14' width='7' height='7'%3E%3C/rect%3E%3C/svg%3E" width="15" height="15" valign="middle" alt="" /> **HSA-16 AI Accelerator** | **Stack:** `Verilog HDL` `Cadence Genus` `Xcelium` `SAIF`[cite: 3, 4]<br> 16×16 INT8 sparsity-aware systolic-array accelerator with lookahead sparsity and dynamic clock gating[cite: 3, 4]. | Cuts redundant MAC activity on sparse workloads and models real switching power via SAIF[cite: 4]. |
-| <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%2300d2ff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='12' cy='5' r='3'%3E%3C/circle%3E%3Ccircle cx='5' cy='19' r='3'%3E%3C/circle%3E%3Ccircle cx='19' cy='19' r='3'%3E%3C/circle%3E%3Cline x1='10.5' y1='7.5' x2='6.5' y2='16.5'%3E%3C/line%3E%3Cline x1='13.5' y1='7.5' x2='17.5' y2='16.5'%3E%3C/line%3E%3C/svg%3E" width="15" height="15" valign="middle" alt="" /> **AgriAgents** | **Stack:** `LangGraph` `Flask` `Python` `ESP32 IoT`[cite: 5]<br> 4-agent climate-aware irrigation system combining telemetry, weather context, and tool-calling agents[cite: 5]. | Automates multi-step agricultural decision workflows with transparent agent reasoning and live monitoring[cite: 5]. |
-| <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%2300d2ff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='22 12 18 12 15 21 9 3 6 12 2 12'%3E%3C/polyline%3E%3C/svg%3E" width="15" height="15" valign="middle" alt="" /> **AI-Assisted CABG Decision Support** | **Stack:** `Next.js` `FastAPI` `PostgreSQL` `OpenCV` `OCR`[cite: 5]<br> Full-stack clinical workflow combining computer vision/OCR extraction, REST APIs, and structured reporting[cite: 5]. | Streamlines medical record ingestion, retrieval, and automated PDF clinical report generation[cite: 5]. |
+| <img src="./icons/awake-asic.svg" width="20" height="20" align="absmiddle" alt="" /> **AWAKE Event-Driven ASIC** | **Stack:** `Verilog` `OpenLane` `OpenROAD` `Sky130` <br> Event-driven sensor ASIC with adaptive ADC, event-detection logic, and hierarchical power FSM. | Achieved timing closure at **116.15 MHz** on SkyWater 130nm with zero setup/hold violations. |
+| <img src="./icons/hsa-accelerator.svg" width="20" height="20" align="absmiddle" alt="" /> **HSA-16 AI Accelerator** | **Stack:** `Verilog HDL` `Cadence Genus` `Xcelium` `SAIF` <br> 16×16 INT8 sparsity-aware systolic-array accelerator with lookahead sparsity and dynamic clock gating. | Cuts redundant MAC activity on sparse workloads and models real switching power via SAIF. |
+| <img src="./icons/agriagents.svg" width="20" height="20" align="absmiddle" alt="" /> **AgriAgents** | **Stack:** `LangGraph` `Flask` `Python` `ESP32 IoT` <br> 4-agent climate-aware irrigation system combining telemetry, weather context, and tool-calling agents. | Automates multi-step agricultural decision workflows with transparent agent reasoning and live monitoring. |
+| <img src="./icons/cabg-clinical.svg" width="20" height="20" align="absmiddle" alt="" /> **AI-Assisted CABG Decision Support** | **Stack:** `Next.js` `FastAPI` `PostgreSQL` `OpenCV` `OCR` <br> Full-stack clinical workflow combining computer vision/OCR extraction, REST APIs, and structured reporting. | Streamlines medical record ingestion, retrieval, and automated PDF clinical report generation. |
+
 ---
 
 ### 📊 **GitHub Intelligence**
