@@ -16,15 +16,14 @@
 
 ---
 
-### 👨‍💻 **About Me**
-> **"I build systems where hardware, firmware, and intelligence meet."**
+### <img src="./icons/deployments.svg" width="22" height="22" align="absmiddle" alt="" /> **Featured Deployments**
 
-I am an **Electronics & Communication Engineering Student** passionate about solving real-world problems through **low-power embedded systems** and **Edge AI**. I don't just write scripts; I architect complete solutions from the sensor node to the cloud dashboard.
-
-* 🔭 **Working on:** Long-range LoRaWAN tracking & TinyML for microcontrollers.
-* 🎓 **Studying:** Embedded Firmware Optimization & RTOS.
-* 💼 **Goal:** Seeking Internship roles in Embedded Systems / IoT / Firmware Engineering.
-
+| Project | Description & Tech | Impact |
+| :--- | :--- | :--- |
+| <img src="./icons/awake-asic.svg" width="20" height="20" align="absmiddle" alt="" /> **AWAKE Event-Driven ASIC** | **Stack:** `Verilog` `OpenLane` `OpenROAD` `Sky130` <br> Event-driven sensor ASIC with adaptive ADC, event-detection logic, and hierarchical power FSM. | Achieved timing closure at **116.15 MHz** on SkyWater 130nm with zero setup/hold violations. |
+| <img src="./icons/hsa-accelerator.svg" width="20" height="20" align="absmiddle" alt="" /> **HSA-16 AI Accelerator** | **Stack:** `Verilog HDL` `Cadence Genus` `Xcelium` `SAIF` <br> 16×16 INT8 sparsity-aware systolic-array accelerator with lookahead sparsity and dynamic clock gating. | Cuts redundant MAC activity on sparse workloads and models real switching power via SAIF. |
+| <img src="./icons/agriagents.svg" width="20" height="20" align="absmiddle" alt="" /> **AgriAgents** | **Stack:** `LangGraph` `Flask` `Python` `ESP32 IoT` <br> 4-agent climate-aware irrigation system combining telemetry, weather context, and tool-calling agents. | Automates multi-step agricultural decision workflows with transparent agent reasoning and live monitoring. |
+| <img src="./icons/cabg-clinical.svg" width="20" height="20" align="absmiddle" alt="" /> **AI-Assisted CABG Decision Support** | **Stack:** `Next.js` `FastAPI` `PostgreSQL` `OpenCV` `OCR` <br> Full-stack clinical workflow combining computer vision/OCR extraction, REST APIs, and structured reporting. | Streamlines medical record ingestion, retrieval, and automated PDF clinical report generation. |
 ---
 
 ### 🛠 **The Tech Arsenal**
