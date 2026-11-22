@@ -1,0 +1,40 @@
+name: Generate GitHub Stats SVGs
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Generate Stats & Top Languages SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: aashishniranjanb
+        run: |
+          mkdir -p stats
+          curl -fsSL "https://github-readme-stats.vercel.app/api?username=${USERNAME}&show_icons=true&bg_color=05070c&title_color=0f64d7&icon_color=0f64d7&text_color=e6edf3&ring_color=0f64d7&border_color=0f64d7&hide_border=false" -o stats/github-stats.svg || true
+          curl -fsSL "https://github-readme-stats.vercel.app/api/top-langs/?username=${USERNAME}&layout=compact&bg_color=05070c&title_color=0f64d7&icon_color=0f64d7&text_color=e6edf3&border_color=0f64d7&hide_border=false" -o stats/top-langs.svg || true
+
+      - name: Commit updated SVGs if non-empty
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          for f in stats/*.svg; do
+            if [ ! -s "$f" ] || ! grep -q "<svg" "$f"; then
+              git checkout -- "$f" 2>/dev/null || rm -f "$f"
+            fi
+          done
+          git add stats/
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update GitHub stats SVGs"
+            git push
+          fi
