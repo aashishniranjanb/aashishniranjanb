@@ -17,7 +17,11 @@
 
 <br />
 
----
+<br />
+<div align="center">
+  <img src="./icons/divider.svg" width="100%" alt="" />
+</div>
+<br />
 
 ### <img src="./icons/about.svg" width="24" height="24" align="absmiddle" alt="" /> **About Me**
 
@@ -50,7 +54,11 @@ Final-year **ECE** builder at **SRMIST** (Class of 2027) taking ideas from **RTL
 
 </details>
 
----
+<br />
+<div align="center">
+  <img src="./icons/divider.svg" width="100%" alt="" />
+</div>
+<br />
 
 ### <img src="./icons/arsenal.svg" width="24" height="24" align="absmiddle" alt="" /> **The Tech Arsenal**
 
@@ -109,7 +117,11 @@ Final-year **ECE** builder at **SRMIST** (Class of 2027) taking ideas from **RTL
   </tr>
 </table>
 
----
+<br />
+<div align="center">
+  <img src="./icons/divider.svg" width="100%" alt="" />
+</div>
+<br />
 
 ### <img src="./icons/deployments.svg" width="26" height="26" align="absmiddle" alt="" /> **Featured Deployments**
 
@@ -120,7 +132,11 @@ Final-year **ECE** builder at **SRMIST** (Class of 2027) taking ideas from **RTL
 | <img src="./icons/agriagents.svg" width="20" height="20" align="absmiddle" alt="" /> [**AgriAgents**](https://github.com/aashishniranjanb/TERRA-AGENT-Smart-Irrigation) | **Stack:** `LangGraph` `Flask` `Python` `ESP32 IoT` <br> 4-agent climate-aware irrigation system combining telemetry, weather context, and tool-calling agents. | Automates multi-step agricultural decision workflows with transparent agent reasoning and live monitoring. |
 | <img src="./icons/cabg-clinical.svg" width="20" height="20" align="absmiddle" alt="" /> [**AI-Assisted CABG Decision Support**](https://github.com/aashishniranjanb/ai-assisted-cabg-clinical-decision-support) | **Stack:** `Next.js` `FastAPI` `PostgreSQL` `OpenCV` `OCR` <br> Full-stack clinical workflow combining computer vision/OCR extraction, REST APIs, and structured reporting. | Streamlines medical record ingestion, retrieval, and automated PDF clinical report generation. |
 
----
+<br />
+<div align="center">
+  <img src="./icons/divider.svg" width="100%" alt="" />
+</div>
+<br />
 
 ### <img src="./icons/telemetry.svg" width="26" height="26" align="absmiddle" alt="" /> **GitHub Intelligence**
 
@@ -145,7 +161,11 @@ Final-year **ECE** builder at **SRMIST** (Class of 2027) taking ideas from **RTL
   <img src="https://raw.githubusercontent.com/aashishniranjanb/aashishniranjanb/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions" />
 </div>
 
----
+<br />
+<div align="center">
+  <img src="./icons/divider.svg" width="100%" alt="" />
+</div>
+<br />
 
 ### <img src="./icons/transmission.svg" width="26" height="26" align="absmiddle" alt="" /> **Transmission Lines**
 
