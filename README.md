@@ -4,15 +4,15 @@
   <br />
 
   <a href="https://github.com/aashishniranjanb">
-    <img src="https://img.shields.io/badge/Status-Building_Silicon_%26_Systems-0f64d7?style=flat-square&logo=github&logoColor=white" alt="GitHub Status" />
+    <img src="https://img.shields.io/badge/Focus-Silicon_%7C_Embedded_%7C_AI-0f64d7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Focus" />
   </a>
   <a href="https://www.linkedin.com/in/aashishniranjanb/">
-    <img src="https://img.shields.io/badge/Network-Open_to_Connect-0f64d7?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-05070c?style=for-the-badge&logo=linkedin&logoColor=0f64d7" alt="LinkedIn" />
   </a>
   <a href="https://aashishniranjanb.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Site-05070c?style=flat-square&logo=vercel&logoColor=0f64d7" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-0f64d7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=aashishniranjanb&color=blue&style=flat-square&label=VISITORS" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=aashishniranjanb&color=0f64d7&style=for-the-badge&label=VIEWS" alt="Profile Views" />
 </div>
 
 <br />
@@ -23,11 +23,22 @@
 
 > *"Optimization is the root of all engineering."*
 
-ECE final-year builder at **SRMIST** (graduating May 2027) working across **VLSI / RTL**, **low-power embedded systems**, and **AI & backend engineering**[cite: 1, 2, 4, 5]. I like building across layers—from digital logic and accelerators to firmware, pipelines, and web interfaces[cite: 3, 4, 5, 6].
+Final-year **ECE** builder at **SRMIST** (Class of 2027) taking ideas from **RTL & ASIC signoff** down to **edge firmware** and **full-stack AI systems**.
 
-- **VLSI & Silicon:** Verilog, SystemVerilog, RTL-to-GDSII, STA, Cadence / Synopsys / OpenLane[cite: 2, 4]
-- **Embedded & Edge:** Embedded C/C++, ESP32, FPGA, LoRaWAN, real-time telemetry[cite: 1, 4, 5]
-- **AI & Systems:** Python, LangChain / LangGraph, FastAPI, PostgreSQL, Next.js, Linux[cite: 1, 5]
+| Layer | Core Stack |
+| :--- | :--- |
+| **Silicon & RTL** | `Verilog` `SystemVerilog` `UVM` `RTL-to-GDSII` `STA` `Cadence` `Synopsys` `OpenLane` |
+| **Embedded & Edge** | `Embedded C/C++` `ESP32` `STM32` `FPGA` `RTOS` `LoRaWAN` |
+| **AI & Software** | `Python` `PyTorch` `TinyML` `LangGraph` `FastAPI` `PostgreSQL` `Next.js` |
+
+<details>
+<summary><b>More Background & Research Highlights</b></summary>
+<br>
+
+- **Research & Competitions:** Published & presented work across VLSI reliability, slack-aware accelerators, and edge intelligence (including IEEE ITC India & ICOSAAS tracks).
+- **Internships & Leadership:** Hands-on hardware/FPGA design, industrial automation, GenAI/RAG workflows, robotics leadership, and technical speaking.
+
+</details>
 
 ---
 
@@ -94,10 +105,10 @@ ECE final-year builder at **SRMIST** (graduating May 2027) working across **VLSI
 
 | Project | Description & Tech | Impact |
 | :--- | :--- | :--- |
-| <img src="./icons/awake-asic.svg" width="20" height="20" align="absmiddle" alt="" /> **AWAKE Event-Driven ASIC** | **Stack:** `Verilog` `OpenLane` `OpenROAD` `Sky130` <br> Event-driven sensor ASIC with adaptive ADC, event-detection logic, and hierarchical power FSM[cite: 4]. | Achieved timing closure at **116.15 MHz** on SkyWater 130nm with zero setup/hold violations[cite: 4]. |
-| <img src="./icons/hsa-accelerator.svg" width="20" height="20" align="absmiddle" alt="" /> **HSA-16 AI Accelerator** | **Stack:** `Verilog HDL` `Cadence Genus` `Xcelium` `SAIF` <br> 16×16 INT8 sparsity-aware systolic-array accelerator with lookahead sparsity and dynamic clock gating[cite: 3, 4]. | Cuts redundant MAC activity on sparse workloads and models real switching power via SAIF[cite: 4]. |
-| <img src="./icons/agriagents.svg" width="20" height="20" align="absmiddle" alt="" /> **AgriAgents** | **Stack:** `LangGraph` `Flask` `Python` `ESP32 IoT` <br> 4-agent climate-aware irrigation system combining telemetry, weather context, and tool-calling agents[cite: 5]. | Automates multi-step agricultural decision workflows with transparent agent reasoning and live monitoring[cite: 5]. |
-| <img src="./icons/cabg-clinical.svg" width="20" height="20" align="absmiddle" alt="" /> **AI-Assisted CABG Decision Support** | **Stack:** `Next.js` `FastAPI` `PostgreSQL` `OpenCV` `OCR` <br> Full-stack clinical workflow combining computer vision/OCR extraction, REST APIs, and structured reporting[cite: 5]. | Streamlines medical record ingestion, retrieval, and automated PDF clinical report generation[cite: 5]. |
+| <img src="./icons/awake-asic.svg" width="20" height="20" align="absmiddle" alt="" /> **AWAKE Event-Driven ASIC** | **Stack:** `Verilog` `OpenLane` `OpenROAD` `Sky130` <br> Event-driven sensor ASIC with adaptive ADC, event-detection logic, and hierarchical power FSM. | Closed timing at **116.15 MHz** on SkyWater 130nm with zero setup/hold violations. |
+| <img src="./icons/hsa-accelerator.svg" width="20" height="20" align="absmiddle" alt="" /> **HSA-16 AI Accelerator** | **Stack:** `Verilog HDL` `Cadence Genus` `Xcelium` `SAIF` <br> 16×16 INT8 sparsity-aware systolic-array accelerator with lookahead sparsity and dynamic clock gating. | Cuts redundant MAC activity on sparse workloads and models real switching power via SAIF. |
+| <img src="./icons/agriagents.svg" width="20" height="20" align="absmiddle" alt="" /> **AgriAgents** | **Stack:** `LangGraph` `Flask` `Python` `ESP32 IoT` <br> 4-agent climate-aware irrigation system combining telemetry, weather context, and tool-calling agents. | Automates multi-step agricultural decision workflows with transparent agent reasoning and live monitoring. |
+| <img src="./icons/cabg-clinical.svg" width="20" height="20" align="absmiddle" alt="" /> **AI-Assisted CABG Decision Support** | **Stack:** `Next.js` `FastAPI` `PostgreSQL` `OpenCV` `OCR` <br> Full-stack clinical workflow combining computer vision/OCR extraction, REST APIs, and structured reporting. | Streamlines medical record ingestion, retrieval, and automated PDF clinical report generation. |
 
 ---
 
@@ -133,13 +144,13 @@ ECE final-year builder at **SRMIST** (graduating May 2027) working across **VLSI
     <img src="https://img.shields.io/badge/Email-aashishniranjanb%40gmail.com-0f64d7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/aashishniranjanb/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0f64d7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-05070c?style=for-the-badge&logo=linkedin&logoColor=0f64d7" alt="LinkedIn" />
   </a>
   <a href="https://github.com/aashishniranjanb">
-    <img src="https://img.shields.io/badge/GitHub-Follow-05070c?style=for-the-badge&logo=github&logoColor=0f64d7" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-0f64d7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://aashishniranjanb.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Site-0f64d7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-05070c?style=for-the-badge&logo=vercel&logoColor=0f64d7" alt="Portfolio" />
   </a>
 </div>
 
