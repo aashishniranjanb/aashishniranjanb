@@ -111,17 +111,20 @@
 </div>
 ---
 
-### 📫 **Transmission Lines**
+### <img src="./icons/transmission.svg" width="26" height="26" align="absmiddle" alt="" /> **Transmission Lines**
 
 <div align="center">
   <a href="mailto:aashishniranjanb@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aashishniranjanb%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-aashishniranjanb%40gmail.com-0f64d7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/aashishniranjanb/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0f64d7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/aashishniranjanb">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-05070c?style=for-the-badge&logo=github&logoColor=0f64d7" alt="GitHub" />
+  </a>
+  <a href="https://aashishniranjanb.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-0f64d7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
@@ -130,5 +133,4 @@
 <div align="center">
   <i>"Optimization is the root of all engineering."</i>
 </div>
-
 
