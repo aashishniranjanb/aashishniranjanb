@@ -16,7 +16,7 @@
 
 ---
 
-### <img src="./icons/deployments.svg" width="22" height="22" align="absmiddle" alt="" /> **Featured Deployments**
+### <img src="./icons/deployments.svg" width="26" height="26" align="absmiddle" alt="" /> **Featured Deployments**
 
 | Project | Description & Tech | Impact |
 | :--- | :--- | :--- |
